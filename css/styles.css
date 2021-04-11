@@ -115,14 +115,14 @@
   position: relative;
 }
 
-/*.window td {
+.window td {
   background: steelblue;
   height: 28px;
   width: 50px;
   position: relative;
 }
 
-#ground td {
+/*#ground td {
   padding-top: 50px;
 }
 
