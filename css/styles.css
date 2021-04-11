@@ -126,7 +126,7 @@
   padding-top: 50px;
 }
 
-/*#door {
+#door {
   background: chocolate;
   width: 50px;
   height: 100px;
@@ -134,7 +134,7 @@
   border: 1px solid steelblue;
 }
 
-@media screen and (max-width: 375px) {
+/*@media screen and (max-width: 375px) {
   #building {
     max-width: 136px;
   }
