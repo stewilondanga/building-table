@@ -95,11 +95,11 @@
   transition-delay: 0.3s;
 }
 
-/*.share-button:hover .share__link:nth-of-type(4) {
+.share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
 }
 
-#building {
+/*#building {
   width: 100%;
   max-width: 368px;
   background: url('data:image/svg+xml,%3Csvg width="42" height="44" viewBox="0 0 42 44" xmlns="http://www.w3.org/2000/svg"%3E%3Cg id="Page-1" fill="none" fill-rule="evenodd"%3E%3Cg id="brick-wall" fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E') darkgrey;
