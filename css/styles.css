@@ -122,11 +122,11 @@
   position: relative;
 }
 
-/*#ground td {
+#ground td {
   padding-top: 50px;
 }
 
-#door {
+/*#door {
   background: chocolate;
   width: 50px;
   height: 100px;
